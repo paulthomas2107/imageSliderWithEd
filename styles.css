@@ -46,3 +46,15 @@ img {
     pointer-events: none;
 }
 
+.slider_2 {
+    width: 0.5rem;
+    background: red;
+    height: 100%;
+    z-index: 12;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform:  rotate(90deg);;
+    pointer-events: none;
+}
+
